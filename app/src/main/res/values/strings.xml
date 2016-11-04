@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JackZoo</string>
+    <string name="red_string">RED</string>
+    <string name="green_string">GREEN</string>
+    <string name="drawer_opened">Select an item</string>
+    <string name="drawer_closed">JackZoo</string>
+</resources>
